@@ -1,5 +1,5 @@
 
-🎓 Etec Profº Camargo Aranha
+🎓 Etec Profº Camargo Aranha <br>
 🏴󠁢󠁲󠁳󠁰󠁿 São Paulo
 
 <div>
