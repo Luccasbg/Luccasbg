@@ -1,8 +1,6 @@
-# Hey 👋🏻
 
-My name is Luccas Guimarães, and I'm from Brazil. I've been studying Software Development at Etec Professor Camargo Aranha since 2020. 💻
-
-I'm really appreciating to study HTML, CSS, PHP, Javascript and Java at school. Moreover, I also study programming by myself. 😊
+🎓 Etec Profº Camargo Aranha
+🏴󠁢󠁲󠁳󠁰󠁿 São Paulo
 
 <div>
   <a href="https://github.com/Luccasbg">
