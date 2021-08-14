@@ -2,11 +2,11 @@
 🎓 Etec Profº Camargo Aranha <br>
 🏴󠁢󠁲󠁳󠁰󠁿 São Paulo
 
-Atualmente, estou cursando o 2º ano em Desenvolvimento de Sistemas integrado ao Ensino Médio, oferecido pela Etec mencionada anteriormente. As tecnologias e o ambiente de desenvolvimento chamaram muito a minha atenção, de tal modo que tenho o objetivo de seguir na área. 
+Atualmente, estou cursando o 2º ano em Desenvolvimento de Sistemas integrado ao Ensino Médio, oferecido pela Etec mencionada anteriormente. As tecnologias e o ambiente de desenvolvimento chamaram muito a minha atenção, de tal modo que tenho o objetivo de seguir na área. 💻
 
-Até o presente momento, consegui desenvolver habilidades intermediárias com HTML e CSS, além do saber conceitos básicos em PhP (conexões com banco de dados, por exemplo) e Javascript. Apesar de gostar bastante das tecnologias mencionadas, a linguagem que mais me agradou foi Java, e, por esse motivo, venho buscando aprofundar e fortalecer meus conhecimentos na área. 
+Até o presente momento, consegui desenvolver habilidades intermediárias com HTML e CSS, além do saber conceitos básicos em PhP (conexões com banco de dados, por exemplo) e Javascript. Apesar de gostar bastante das tecnologias mencionadas, a linguagem que mais me agradou foi Java, e, por esse motivo, venho buscando aprofundar e fortalecer meus conhecimentos na área. 👨🏻‍💻
 
-Nos dias atuais, estou estudando desenvolvimento de aplicações com o framework Spring Boot.
+Nos dias atuais, estou estudando desenvolvimento de aplicações com o framework Spring Boot. 📕⚫🟩
 
 <hr>
 
