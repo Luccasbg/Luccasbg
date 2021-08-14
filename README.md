@@ -1,5 +1,6 @@
 
 🎓 Etec Profº Camargo Aranha <br>
+💻 Desenvolvimento de Sistemas <br>
 🏴󠁢󠁲󠁳󠁰󠁿 São Paulo
 
 Atualmente, estou cursando o 2º ano em Desenvolvimento de Sistemas integrado ao Ensino Médio, oferecido pela Etec mencionada anteriormente. As tecnologias e o ambiente de desenvolvimento chamaram muito a minha atenção, de tal modo que tenho o objetivo de seguir na área. 💻
