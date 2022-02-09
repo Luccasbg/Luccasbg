@@ -3,9 +3,9 @@
 💻 Desenvolvimento de Sistemas <br>
 🏴󠁢󠁲󠁳󠁰󠁿 São Paulo
 
-Impressionado com a capacidade se solucionar problemas do dia a dia através da tecnologia, desejo seguir carreira como programador. 💻
+Impressionado com a capacidade de solucionar problemas do dia a dia através da tecnologia, desejo seguir carreira como programador. 💻
 
-Durante os 3 anos em que venho estudando,tenho me dedicado cada vez mais no aprofundamento do meu conhecimento acerca de tecnologias relacionadas ao backend, em especial quando relacionadas à linguagem Java. 👨🏻‍💻
+Durante os últimos 3 anos,tenho me dedicado cada vez mais no aprofundamento do meu conhecimento acerca de tecnologias relacionadas ao backend, em especial quando relacionadas à linguagem Java. 👨🏻‍💻
 
 Nos dias atuais, estou estudando desenvolvimento de aplicações em Java com o framework Spring Boot. 📕⚫🟢
 
