@@ -3,9 +3,9 @@
 💻 Desenvolvimento de Sistemas <br>
 🏴󠁢󠁲󠁳󠁰󠁿 São Paulo
 
-Atualmente, estou cursando o 3º ano em Desenvolvimento de Sistemas integrado ao Ensino Médio, oferecido pela Etec mencionada anteriormente. As tecnologias e o ambiente de desenvolvimento chamaram muito a minha atenção, de tal modo que tenho o objetivo de seguir na área. 💻
+Impressionado com a capacidade se solucionar problemas do dia a dia através da tecnologia, desejo seguir carreira como programador. 💻
 
-Até o presente momento, consegui desenvolver habilidades intermediárias com HTML e CSS, além do saber conceitos básicos em PhP (CRUD, por exemplo) e Javascript. Apesar de gostar bastante das tecnologias mencionadas, a linguagem que mais me agradou foi Java, e, por esse motivo, venho buscando aprofundar e fortalecer meus conhecimentos na área. 👨🏻‍💻
+Durante os 3 anos em que venho estudando,tenho me dedicado cada vez mais no aprofundamento do meu conhecimento acerca de tecnologias relacionadas ao back-end, em especial quando relacionadas à linguagem Java. 👨🏻‍💻
 
 Nos dias atuais, estou estudando desenvolvimento de aplicações em Java com o framework Spring Boot. 📕⚫🟢
 
