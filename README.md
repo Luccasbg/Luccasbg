@@ -5,9 +5,9 @@
 
 Impressionado com a capacidade de solucionar problemas do dia a dia através da tecnologia, desejo seguir carreira como desenvolvedor. 💻
 
-Durante os últimos 3 anos,tenho me dedicado cada vez mais no aprofundamento do meu conhecimento acerca de tecnologias relacionadas ao backend, em especial quando relacionadas à linguagem Java. 👨🏻‍💻
+Durante os últimos 3 anos, tenho me dedicado cada vez mais no aprofundamento do meu conhecimento acerca de tecnologias relacionadas ao backend, em especial quando relacionadas à linguagem Java. 👨🏻‍💻
 
-Nos dias atuais, estou estudando desenvolvimento de aplicações Web com o framework Spring Boot + Angular. 📕⚫🟢
+Nos dias atuais, estou estudando desenvolvimento de aplicações Web com os frameworks Spring Boot e Angular. 📕⚫🟢
 
 <hr>
 
