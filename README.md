@@ -7,7 +7,7 @@ Impressionado com a capacidade de solucionar problemas do dia a dia através da 
 
 Durante os últimos 3 anos,tenho me dedicado cada vez mais no aprofundamento do meu conhecimento acerca de tecnologias relacionadas ao backend, em especial quando relacionadas à linguagem Java. 👨🏻‍💻
 
-Nos dias atuais, estou estudando desenvolvimento de aplicações em Java com o framework Spring Boot. 📕⚫🟢
+Nos dias atuais, estou estudando desenvolvimento de aplicações Web com o framework Spring Boot + Angular. 📕⚫🟢
 
 <hr>
 
