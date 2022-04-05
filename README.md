@@ -10,10 +10,10 @@ Durante os últimos 3 anos, tenho me dedicado cada vez mais no aprofundamento do
 Nos dias atuais, estou estudando desenvolvimento de aplicações Web com os frameworks Spring Boot e Angular. 📕⚫🟢
 
 Habilidades:<br>
-▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS e Javascript;
-▪ Desenvolvimentos backend com Java + Spring Boot;
-▪ Utilização de IDEs, como: VsCode, NetBeans, Intellij e Eclipse;
-▪ Desenvovimento e gerenciamento de bancos de dados com MySQL e PostgreSQL.
+▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS e Javascript;<br>
+▪ Desenvolvimentos backend com Java + Spring Boot;<br>
+▪ Utilização de IDEs, como: VsCode, NetBeans, Intellij e Eclipse;<br>
+▪ Desenvovimento e gerenciamento de bancos de dados com MySQL e PostgreSQL.<br>
 
 <hr>
 
