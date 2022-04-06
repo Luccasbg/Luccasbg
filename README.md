@@ -14,7 +14,7 @@ Habilidades:<br>
 
 <hr>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <h3>Tecnologias em desenvolvimento:</h3>
 
   <img align="center" alt="Luccas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +25,7 @@ Habilidades:<br>
   <img align="center" alt="Luccas-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Luccas-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
 </div>
-  <br><br>
+  <br>
 <hr>
   
 <div> 
