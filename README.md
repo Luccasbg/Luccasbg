@@ -1,9 +1,6 @@
 
-🎓 Etec Profº Camargo Aranha <br>
-💻 Desenvolvimento de Sistemas <br>
-🏴󠁢󠁲󠁳󠁰󠁿 São Paulo
-
-Impressionado com a capacidade de solucionar problemas do dia a dia através da tecnologia, desejo seguir carreira como desenvolvedor. 💻
+📍 Etec Profº Camargo Aranha <br>
+💻 Técnico em Desenvolvimento de Sistemas <br>
 
 Durante os últimos 3 anos, tenho me dedicado cada vez mais no aprofundamento do meu conhecimento acerca de tecnologias relacionadas ao backend, em especial quando relacionadas à linguagem Java. 👨🏻‍💻
 
