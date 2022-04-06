@@ -25,7 +25,6 @@ Habilidades:<br>
   <img align="center" alt="Luccas-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Luccas-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
 </div>
-  <br>
 <hr>
   
 <div> 
