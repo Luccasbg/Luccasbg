@@ -13,7 +13,7 @@ Habilidades:<br>
 ▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS e Javascript;<br>
 ▪ Desenvolvimentos backend com Java + Spring Boot;<br>
 ▪ Utilização de IDEs, como: VsCode, NetBeans, Intellij e Eclipse;<br>
-▪ Desenvovimento e gerenciamento de bancos de dados com MySQL e PostgreSQL.<br>
+▪ Desenvovimento e gerenciamento de bancos de dados com MySQL e PostgreSQL<br>
 
 <hr>
 
