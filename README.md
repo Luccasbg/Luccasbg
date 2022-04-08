@@ -2,7 +2,7 @@
 📍 Etec Profº Camargo Aranha <br>
 💻 Técnico em Desenvolvimento de Sistemas <br>
 
-Durante os últimos 3 anos, tenho me dedicado cada vez mais no aprofundamento do meu conhecimento acerca de tecnologias relacionadas ao backend, em especial quando relacionadas à linguagem Java. 👨🏻‍💻
+Durante os últimos 3 anos, tenho me dedicado no aprendizado de tecnologias relacionadas ao universo do desenvolvimento.👨🏻‍💻
 
 Habilidades:<br>
 ▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS e Javascript;<br>
