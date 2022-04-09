@@ -12,7 +12,7 @@ Habilidades:<br>
 <hr>
   
 <div style="display: inline_block">
-  <h3>Tecnologias em desenvolvimento:</h3>
+  <h3>Tecnologias:</h3>
 
   <img align="center" alt="Luccas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luccas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
