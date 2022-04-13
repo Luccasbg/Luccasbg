@@ -5,11 +5,11 @@
 Durante os últimos 3 anos, tenho me dedicado no aprendizado de tecnologias relacionadas ao universo do desenvolvimento.👨🏻‍💻
 
 Habilidades:<br>
-▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS e Javascript;<br>
+▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS, Bootstrap e Javascript;<br>
 ▪ Estudando ReactJs;<br>
 ▪ Desenvolvimento backend com Java + Spring Boot;<br>
 ▪ Desenvovimento e gerenciamento de bancos de dados com MySQL e PostgreSQL;<br>
-▪ Utilização de IDEs, como: VsCode, NetBeans, Intellij e Eclipse<br>
+▪ Utilização de IDEs, como: VSCode, NetBeans, Intellij e Eclipse<br>
 <hr>
   
 <div style="display: inline_block">
