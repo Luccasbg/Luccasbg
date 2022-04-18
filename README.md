@@ -11,6 +11,12 @@ Habilidades:<br>
 ▪ Desenvovimento e gerenciamento de bancos de dados com MySQL e PostgreSQL;<br>
 ▪ Utilização de IDEs, como: VSCode, NetBeans, Intellij e Eclipse.<br>
 <hr>
+
+<div align="center">
+  <a href="https://github.com/luccasbg/">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luccasbg&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasbg&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
   
 <div style="display: inline_block">
   <h3>Tecnologias:</h3>
