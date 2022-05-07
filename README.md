@@ -1,10 +1,11 @@
 
-📍 Etec Profº Camargo Aranha <br>
-💻 Técnico em Desenvolvimento de Sistemas <br>
+📍 Etec Profº Camargo Aranha<br>
+💻 Técnico em Desenvolvimento de Sistemas<br>
 
-Durante os últimos 3 anos, tenho me dedicado no aprendizado de tecnologias relacionadas ao universo do desenvolvimento.👨🏻‍💻
+Olá! Como um bom amante das áreas exatas, amo solucionar problemas. Por esse motivo, quando tive meus primeiros contatos com o universo da programação, rapidamente me encantei com a ideia de utilizar a tecnologia para esse fim. Sendo assim, desde 2020 tenho me dedicado ao aprendizado de ferramentas relacionadas ao universo do desenvolvimento, em especial, quando elas pertencem ao campo do backend.👨🏻‍💻<br>
 
-Habilidades:<br>
+Hard skills:<br>
+
 ▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS, Bootstrap e Javascript;<br>
 ▪ Estudando ReactJs;<br>
 ▪ Desenvolvimento backend com Java + Spring Boot;<br>
