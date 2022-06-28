@@ -19,6 +19,7 @@ Hard skills:<br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasbg&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+<hr>
 <div style="display: inline_block">
   <h3>Tecnologias:</h3>
 
