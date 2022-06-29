@@ -33,6 +33,14 @@ Hard skills:<br>
   <img align="center" alt="Luccas-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
 <hr>
+
+<div style="display: inline_block">
+  <h3>Estudando:</h3>
+
+  <img align="center" alt="Luccas-SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Luccas-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+</div>
+<hr>
   
 <div> 
   
