@@ -1,4 +1,4 @@
-Por apreciar as áreas exatas, amo solucionar problemas. Por esse motivo, quando tive meus primeiros contatos com o universo da programação, rapidamente me encantei com a ideia de utilizar a tecnologia para esse fim. Atualmente, busco aprofundar meus conhecimentos relacionados ao framework Spring Boot (Java) juntamente aos modelos ágeis de trabalho, como Scrum e XP.
+Por apreciar as áreas exatas, amo solucionar problemas. Por esse motivo, quando tive meus primeiros contatos com o universo da programação, rapidamente me encantei com a ideia de utilizar a tecnologia para esse fim. Atualmente, busco aprofundar meus conhecimentos relacionados ao framework Spring Boot (Java) juntamente aos modelos ágeis de trabalho, como Scrum e XP. Além disso, estou fortalecendo minhas habilidades no uso de banco de dados relacionais, como MySQL e PostgreSQL, e não-relacionais, como MongoDB.
 
 <hr>
 <div style="display: inline_block">
