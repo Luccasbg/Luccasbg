@@ -1,24 +1,5 @@
+Por apreciar as áreas exatas, amo solucionar problemas. Por esse motivo, quando tive meus primeiros contatos com o universo da programação, rapidamente me encantei com a ideia de utilizar a tecnologia para esse fim. Atualmente, busco aprofundar meus conhecimentos relacionados ao framework Spring Boot (Java) juntamente aos modelos ágeis de trabalho, como Scrum e XP.
 
-📍 Etec Profº Camargo Aranha<br>
-💻 Técnico em Desenvolvimento de Sistemas<br>
-
-Olá! Como um bom amante das áreas exatas, amo solucionar problemas. Por esse motivo, quando tive meus primeiros contatos com o universo da programação, rapidamente me encantei com a ideia de utilizar a tecnologia para esse fim. Sendo assim, desde 2020 tenho me dedicado ao aprendizado de ferramentas relacionadas ao universo do desenvolvimento, em especial, quando elas pertencem ao campo do backend.👨🏻‍💻<br>
-
-Hard skills:<br>
-
-▪ Desenvolvimento de aplicações web intermediárias com HTML, CSS, Bootstrap e Javascript;<br>
-▪ Estudando ReactJs;<br>
-▪ Desenvolvimento backend com Java + Spring Boot;<br>
-▪ Desenvovimento e gerenciamento de bancos de dados com MySQL e PostgreSQL;<br>
-▪ Utilização de IDEs, como: VSCode, NetBeans, Intellij e Eclipse.<br>
-<hr>
-
-<div align="center">
-  <a href="https://github.com/luccasbg/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luccasbg&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasbg&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
 <hr>
 <div style="display: inline_block">
   <h3>Tecnologias:</h3>
