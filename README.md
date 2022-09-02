@@ -18,8 +18,8 @@ Por apreciar as áreas exatas, amo solucionar problemas. Por esse motivo, quando
 <div style="display: inline_block">
   <h3>Estudando:</h3>
 
-  <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-00000F?style=for-the-badge&logo=SpringBoot">
-  <img align="center" alt="ReactJs" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=React">
+  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-00000F?style=for-the-badge&logo=Laravel">
+  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-00000F?style=for-the-badge&logo=Flutter">
 </div>
 <hr>
   
