@@ -1,5 +1,6 @@
 Por apreciar as áreas exatas, amo solucionar problemas. Por esse motivo, quando tive meus primeiros contatos com o universo da programação, rapidamente me encantei com a ideia de utilizar a tecnologia para esse fim. Atualmente, busco aprofundar meus conhecimentos relacionados ao framework Spring Boot juntamente aos modelos ágeis de trabalho, como Scrum e XP. Além disso, estou fortalecendo minhas habilidades no uso de bancos de dados relacionais, como MySQL e PostgreSQL, e não-relacionais, como MongoDB.
 
+Since I realized that I could use technology to solve daily problems I fell in love with programming. Currently, I'm improving my Spring Boot skills and learning more about Agile. Moreover, I'm making my knowledge of database technologies stronger (MySQL, PostgreSQL and MongoDB). 
 <hr>
 <div style="display: inline_block">
   <h3>Tecnologias:</h3>
