@@ -20,7 +20,7 @@ Since I realized that I could use technology to solve daily problems I fell in l
   <h3>Estudando:</h3>
 
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-00000F?style=for-the-badge&logo=Laravel">
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-00000F?style=for-the-badge&logo=Flutter">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=React">
 </div>
 <hr>
   
