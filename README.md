@@ -13,6 +13,7 @@ Since I realized that I could use technology to solve daily problems I fell in l
   <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-00000F?style=for-the-badge&logo=SpringBoot">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql">
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSql-00000F?style=for-the-badge&logo=postgresql">
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb">
 </div>
 <hr>
 
