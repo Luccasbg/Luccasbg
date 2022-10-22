@@ -25,7 +25,16 @@ Since I realized that I could use technology to solve daily problems I fell in l
 </div>
 <hr>
   
-<div> 
+<div>
+
+<div align="center" style="display: inline_block">
+    <a href="https://github.com/luccasbg">
+       <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasbg&hide=hack&layout=compact&theme=tokyonight" />
+    </a>
+     <a href="https://github.com/jamilligioielli">
+        <img  align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=luccasbg&theme=tokyonight&show_icons=true"/>
+      </a>
+      </div>  
   
   <h3>Contatos:</h3>
   
