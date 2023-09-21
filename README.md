@@ -13,7 +13,7 @@
 ### Hard Skills 💻
 <ul>
   <li>Desenvolvimento backend com Java + Spring Boot;</li>
-  <li>Conhecimentos relacionados aos conceitos de DDD e MVC;</li>
+  <li>Conhecimento relacionado às arquiteturas de DDD e MVC;</li>
   <li>Gerenciamento de bancos de dados com uso de MySQL, PostgreSQL e MongoDB;</li>
   <li>Desenvolvimento frontend com Html, Css, Bootstrap, JavaScript + Vue.js;</li>
   <li>Aplicação de métodos ágeis, tais como: XP e Scrum</li>
