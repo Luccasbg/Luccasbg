@@ -19,6 +19,6 @@
   <li>Aplicação de métodos ágeis, tais como: XP e Scrum</li>
 </ul>
 
-### Contatos✉️
+### Contatos ✉️
 E-mail: contato.luccasguimaraes@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/luccasguimaraes/
