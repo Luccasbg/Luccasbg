@@ -7,7 +7,7 @@
 <ul>
   <li>Amo construir soluções para problemas do dia a dia;</li>
   <li>Encanto-me com a liberdade criativa que a tecnologia oferece;</li>
-  <li>Trabalho bem equipe, buscando sempre colaborar para o crescimento de meus colegas</li>
+  <li>Trabalho bem em equipe, buscando sempre colaborar para o crescimento de meus colegas</li>
 </ul>
 
 ### Hard Skills 💻
