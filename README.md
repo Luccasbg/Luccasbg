@@ -1,6 +1,9 @@
+👨🏻‍💻 Técnico em Desenvolvimento de Sistemas <br>
+📚 Estudante de Análise e Desenvolvimento de Sistemas <br>
+💻 Desenvolvedor Fullstack em formação <br>
+
 Por apreciar as áreas exatas, amo solucionar problemas. Por esse motivo, quando tive meus primeiros contatos com o universo da programação, rapidamente me encantei com a ideia de utilizar a tecnologia para esse fim. Atualmente, busco aprofundar meus conhecimentos relacionados ao framework Spring Boot juntamente aos modelos ágeis de trabalho, como Scrum e XP. Além disso, estou fortalecendo minhas habilidades no uso de bancos de dados relacionais, como MySQL e PostgreSQL, e não-relacionais, como MongoDB.
 
-Since I realized that I could use technology to solve daily problems I fell in love with programming. Currently, I'm improving my Spring Boot skills and learning more about Agile. Moreover, I'm making my knowledge of database technologies stronger (MySQL, PostgreSQL and MongoDB). 
 <hr>
 <div style="display: inline_block">
   <h3>Tecnologias:</h3>
@@ -16,16 +19,6 @@ Since I realized that I could use technology to solve daily problems I fell in l
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb">
 </div>
 <hr>
-
-<div style="display: inline_block">
-  <h3>Estudando:</h3>
-
-  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-00000F?style=for-the-badge&logo=Laravel">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=React">
-</div>
-<hr>
-  
-<div>
 
 <div align="center" style="display: inline_block">
     <a href="https://github.com/luccasbg">
