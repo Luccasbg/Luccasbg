@@ -1,5 +1,5 @@
+📚 Graduando em Ciência da Computação; <br>
 👨🏻‍💻 Técnico em Desenvolvimento de Sistemas; <br>
-📚 Estudante de Análise e Desenvolvimento de Sistemas; <br>
 💻 Desenvolvedor Fullstack em formação; <br>
 🚩 São Paulo, SP
 
